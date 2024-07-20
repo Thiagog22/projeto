@@ -1,0 +1,15 @@
+Projeto 4: Sistema de Reservas de Salas de Reunião
+
+Descrição do projeto: Uma empresa deseja um sistema para gerenciar reservas de suas salas de reunião. Eles precisam registrar reservas, cancelar reservas, visualizar reservas existentes e consultar a disponibilidade das salas.
+
+Funcionalidades principais:
+
+1. Registrar Reserva
+
+2. Cancelar Reserva
+
+3. Visualizar Reservas
+
+4. Consultar Disponibilidade
+
+5. Sair do Sistema
