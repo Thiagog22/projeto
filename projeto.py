@@ -1,11 +1,11 @@
 def reservaDeSalas():
     sair = False
     reservas = []
-
+    print("Sejam bem vindos ao Sistema G4!")
 
     while (sair == False):
         try:
-            print("Sejam bem vindos ao Sistema G4. \nPara acessar nossos serviços, informe a opção desejada:\n1 - Registrar sua reserva \n2 - Cancelar reservas \n3 - Visualizar reservas \n4 - Consultar disponibilidades \n5 - Sair do sistema" )
+            print("Para acessar nossos serviços, informe a opção desejada:\n1 - Registrar sua reserva \n2 - Cancelar reservas \n3 - Visualizar reservas \n4 - Consultar disponibilidades \n5 - Sair do sistema" )
             op = int(input())
             if (op == 1):
               if len(reservas) >= 10:
